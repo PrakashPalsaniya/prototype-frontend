@@ -1,0 +1,5 @@
+- [x] Remove ChatBot import and related code from Navbar.jsx
+- [x] Remove non-existent imports from App.jsx
+- [x] Remove AppProvider wrapper from App.jsx
+- [x] Remove Footer component usage from App.jsx
+- [x] Remove routes for non-existent pages from App.jsx
