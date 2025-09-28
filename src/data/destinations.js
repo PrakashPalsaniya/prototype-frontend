@@ -8,9 +8,9 @@ export const destinations = [
     district: "Latehar",
     description: "A pristine wilderness sanctuary home to tigers, elephants, and diverse wildlife. Experience eco-friendly safari adventures while supporting local conservation efforts.",
     images: [
-      "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=800",
-      "https://images.unsplash.com/photo-1549366021-9f761d040a94?w=800",
-      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800"
+      "https://www.tataneu.com/pages/travel/_next/image?url=https%3A%2F%2Fd1msew97rp2nin.cloudfront.net%2Fprodin%2Ftntravel%2Fblogimages%2Fhow-to-explore-betla-national-park-jharkhand-like-a-pro-689fe413-050d-48f2-b831-c43b4ca5ca3c.webp&w=3840&q=75",
+      "https://farm1.staticflickr.com/816/41411644931_7f779b08c5_h.jpg",
+      "https://site.outlookindia.com/traveller/wp-content/uploads/2017/06/jharkhand1_Betla-NP_FI.jpg"
     ],
     featured: true,
     ratings: {
@@ -50,9 +50,9 @@ export const destinations = [
     district: "Ranchi",
     description: "Majestic 144-foot waterfall cascading through lush green forests. A perfect blend of natural beauty and peaceful serenity for eco-conscious travelers.",
     images: [
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800"
+      "https://media.assettype.com/outlooktraveller%2F2023-10%2F0ba4ab3c-b689-4914-9fa9-e150ed27e549%2F120656078_344257703674897_5000439800611843421_n.jpg",
+      "https://s7ap1.scene7.com/is/image/incredibleindia/dassam-falls-ranchi-jharkhand-ranchi-1-attr-hero?qlt=82&ts=1727010932624",
+      "https://static.toiimg.com/photo/msid-85740087,width-96,height-65.cms"
     ],
     featured: true,
     ratings: {
@@ -92,9 +92,9 @@ export const destinations = [
     district: "Khunti",
     description: "Authentic tribal village showcasing Munda and Oraon culture. Experience traditional crafts, folk dances, and sustainable community tourism.",
     images: [
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
-      "https://images.unsplash.com/photo-1571115764595-644a1f56a55c?w=800",
-      "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=800"
+      "https://im.hunt.in/cg/jhar/About/Profile/KaramFestivalJharkhand.jpg",
+      "https://www.namasteindiatrip.org/wp-content/uploads/2022/12/Hunta-Dance.jpg",
+      "https://www.pashudhanpraharee.com/wp-content/uploads/2025/04/Sarna-Sacred-Groves-of-Jharkhand-%E2%80%93-Guardians-of-Tribal-Heritage-and-Biodiversity.jpg"
     ],
     featured: false,
     ratings: {
@@ -134,9 +134,9 @@ export const destinations = [
     district: "Ranchi",
     description: "Historic temple complex offering spiritual solace and architectural beauty. A center for cultural events and traditional festivals.",
     images: [
-      "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
-      "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
-      "https://images.unsplash.com/photo-1582552938357-32b906df40cb?w=800"
+      "https://upload.wikimedia.org/wikipedia/commons/c/c5/Jagannath_Temple_Bokaro.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c4/17th_century_Jagannath_temple_Ranchi_Jharkhand_-_8.jpg",
+      "https://superbcollections.com/wp-content/uploads/2024/08/main-temple.jpg"
     ],
     featured: false,
     ratings: {
@@ -176,9 +176,9 @@ export const destinations = [
     district: "Latehar",
     description: "Queen of Chotanagpur, offering breathtaking sunrise views and pleasant climate. Perfect for nature walks and peaceful retreats.",
     images: [
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
-      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800",
-      "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=800"
+      "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/01/08/9ffc869f0419cc62a4e18896dc9b388b_1000x1000.jpg",
+      "https://travelthrivehub.com/wp-content/uploads/2025/06/24b13565-f4e4-4856-a3ff-3f382be955821-e1750658261196.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/ce/Pine_trees_of_Netarhat_Hill_station.jpg"
     ],
     featured: true,
     ratings: {
@@ -218,9 +218,9 @@ export const destinations = [
     district: "Ranchi",
     description: "Spectacular 320-foot waterfall surrounded by dense forests. A paradise for adventure enthusiasts and nature photographers.",
     images: [
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
-      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800"
+      "https://s3.india.com/wp-content/uploads/2025/06/From-Forests-To-Hills_-Best-Ranchi-Camping-Destinations-For-Soulful-Stays.jpg",
+      "https://cdn1.tripoto.com/media/filter/nl/img/2380291/Image/1698481374_img_20171104_101501_largejpg.jpg.webp",
+      "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/01/08/c8c8f808d4222d9ab8ba5201d0b7ed74_1000x1000.jpg"
     ],
     featured: false,
     ratings: {
