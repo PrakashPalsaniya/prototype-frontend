@@ -11,8 +11,8 @@ export const experiences = [
     reviews: 45,
     location: "Khunti District",
     images: [
-      "https://images.unsplash.com/photo-1571115764595-644a1f56a55c?w=400",
-      "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=400"
+      "https://content.jdmagicbox.com/comp/def_content/handicraft-item-exporters/d189618293-handicraft-item-exporters-4-h1gwj.jpg?w=400",
+      
     ],
     provider: {
       name: "Tribal Arts Collective",
@@ -125,8 +125,8 @@ export const experiences = [
     reviews: 89,
     location: "Cultural Center, Ranchi",
     images: [
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400",
-      "https://images.unsplash.com/photo-1571115764595-644a1f56a55c?w=400"
+      
+      "https://caleidoscope.in/wp-content/uploads/2022/04/Dances-of-Jharkhand.jpg?w=400"
     ],
     provider: {
       name: "Jharkhand Cultural Trust",
