@@ -88,7 +88,7 @@ const Profile = () => {
           <div className="relative px-8 pb-8">
             <div className="flex items-start -mt-16">
               <img
-                src={user.avatar || 'https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face'}
+                src="/images.png"
                 alt={user.name}
                 className="w-24 h-24 rounded-full border-4 border-white shadow-lg bg-white"
               />

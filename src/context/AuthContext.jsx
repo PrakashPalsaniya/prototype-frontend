@@ -41,7 +41,7 @@ export const AuthProvider = ({ children }) => {
     const newUser = {
       id: users.length + 1,
       ...userData,
-      avatar: `https://images.unsplash.com/photo-1494790108755-2616b612b786?w=200`,
+      avatar: "/images.png",
       role: 'traveler',
       joinDate: new Date().toISOString().split('T')[0],
       stats: {

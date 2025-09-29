@@ -2,9 +2,9 @@
 export const users = [
   {
     id: 1,
-    name: "Priya Sharma",
-    email: "priya.sharma@email.com",
-    avatar: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=200",
+    name: "Siddhant Prakash",
+    email: "sid123@gmail.com",
+    avatar: "/images.png",
     role: "traveler",
     joinDate: "2024-03-15",
     location: "Delhi, India",
@@ -28,8 +28,8 @@ export const users = [
       "Community Champion"
     ],
     socialLinks: {
-      instagram: "@priya.travels",
-      facebook: "priya.sharma.travel"
+      instagram: "@sidprakash",
+      facebook: "sid.prakash",
     }
   },
   {
